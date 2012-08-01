@@ -1,4 +1,4 @@
 Junction2012
 ============
 
-Computer Science and Interactive graphics
+Computer Science and Interactive graphics class
