@@ -1,1 +1,1 @@
-We made a chnage in github
+We made a change in github
